@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<curl/cur.h>
+#include<curl/curl.h>
 
 int main(void)
 {

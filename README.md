@@ -5,4 +5,4 @@ experimental project
 
 File|Build Status
 ---|---
-hello.c[![Build Status](https://travis-ci.com/hejialing0/transient0.svg?branch=master)](https://travis-ci.com/hejialing0/transient0)
+hello.c|[![Build Status](https://travis-ci.com/hejialing0/transient0.svg?branch=master)](https://travis-ci.com/hejialing0/transient0)
